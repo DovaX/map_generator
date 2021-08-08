@@ -1,5 +1,8 @@
 from collections import Counter
 import random
+from pgwidget.pgwidget_core import Grid #pip install pgwidget
+
+grid=Grid([10, 10], [20, 20], 60,60)
 
 terrain_color_dict={"flood_plains":(100,255,200),"oasis":(200,200,100),"savanna":(220,220,70),"tropical grassland":(50,250,50),"jungle":(50,200,50),
                     "desert":(220,220,150),"grassland":(120,220,120),"taiga":(150,250,150),"tundra":(220,230,220),
