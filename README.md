@@ -10,3 +10,7 @@ With water
 Without water
 
 ![obrazek](https://user-images.githubusercontent.com/29150831/128617355-f6dfa4f0-bee7-43fc-87c9-65324fafa8ae.png)
+
+With water without biomes
+
+![obrazek](https://user-images.githubusercontent.com/29150831/128617594-82967e43-150b-4dbb-ae75-7a97b8286d4d.png)
